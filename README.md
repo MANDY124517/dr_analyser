@@ -90,7 +90,7 @@ Tip: If using a different fusion meta, update the path in dr_src/configs.py or v
 
 ## License
 
-- Add a suitable OSI license (e.g., MIT) to enable clear reuse.
+- GNU GENERAL PUBLIC LICENSE
 
 Contributions and feedback are welcome—issues and PRs help improve model robustness and usability.
 
