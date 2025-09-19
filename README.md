@@ -94,7 +94,5 @@ Tip: If using a different fusion meta, update the path in dr_src/configs.py or v
 
 Contributions and feedback are welcome—issues and PRs help improve model robustness and usability.[^1]
 
-<div style="text-align: center">⁂</div>
 
-[^1]: https://discuss.streamlit.io/t/streamlit-best-practices/57921
 
